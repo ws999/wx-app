@@ -1,0 +1,7 @@
+env/
+.idea/
+test/*
+*.pyc
+local_config.py
+logs/
+cert/
