@@ -116,5 +116,5 @@ configDict = {
     'pro': ProConfig,  # 生产环境
 }
 
-# TODO 需配置local_config并设置WX_SITE_CONFIG
-config = configDict[os.getenv('wxapp_CONFIG') or 'dev']
+# TODO 需配置local_config并设置WXAPP_CONFIG
+config = configDict[os.getenv('WXAPP_CONFIG') or 'dev']
