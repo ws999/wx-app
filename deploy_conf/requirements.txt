@@ -13,7 +13,7 @@ gevent==1.2.2
 greenlet==0.4.12
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 mongoengine==0.15.0
 Pillow==6.2.0
